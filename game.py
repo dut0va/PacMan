@@ -9,7 +9,7 @@ from tkinter import messagebox
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 576
 
-# Define some colors
+# yf
 BLACK = (0,0,0)
 WHITE = (255,255,255)
 BLUE = (0,0,255)
